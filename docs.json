@@ -127,5 +127,8 @@
   "background": {
     "image": "/logo/Copy_of_Robby-removebg-preview (1).png",
     "decoration": "gradient"
+  },
+  "fonts": {
+    "family": "Montserrat"
   }
 }
