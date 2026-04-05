@@ -87,8 +87,9 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/Copy_of_Robby-removebg-preview (1).png",
+    "dark": "/logo/Copy of Robby.png",
+    "href": "https://robbyshopping.mintlify.app/"
   },
   "navbar": {
     "links": [
@@ -122,5 +123,9 @@
       "linkedin": "https://linkedin.com/company/mintlify"
     }
   },
-  "description": "Official docs for the Robby Shopping roblox game."
+  "description": "Official docs for the Robby Shopping roblox game.",
+  "background": {
+    "image": "/logo/Copy_of_Robby-removebg-preview (1).png",
+    "decoration": "gradient"
+  }
 }
