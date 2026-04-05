@@ -116,13 +116,6 @@
      "vscode"
    ]
   },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
-    }
-  },
   "description": "Official docs for the Robby Shopping roblox game.",
   "background": {
     "decoration": "gradient"
@@ -136,5 +129,11 @@
   "banner": {
     "content": "In current development",
     "dismissible": true
+  },
+  "footer": {
+    "socials": {
+      "discord": "https://discord.gg/DWpB8gNnSc",
+      "youtube": "https://www.youtube.com/@game_studios_sl"
+    }
   }
 }
